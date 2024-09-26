@@ -72,6 +72,7 @@ int main()
 			break;
 		default:
 			printf("greater than 9\n");
+			break;
 		
 	}
 	return 0;
